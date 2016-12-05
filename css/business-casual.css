@@ -177,7 +177,13 @@ a:-webkit-any-link {
       color: #37c0fb !important;
     }
 
+#gambar2{
+  padding-top: 1.5em;
+}
 
+#gambar{
+  padding-top: 1.5em;
+}
 
 
 #teks{
@@ -226,7 +232,7 @@ footer {
 
 footer p {
     margin: 0;
-    padding: 50px 0;
+    padding: 15px 0;
 
 }
 
